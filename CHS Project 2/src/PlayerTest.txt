@@ -1,0 +1,8 @@
+Player: Name:Herbert  Cash:200.0
+Player name: Herbert
+Player money: 200.0
+Player money is now: 150.0
+Player money is now: 100.0
+Player money is now: 50.0
+Player money is now: 0.0
+Player: Name:Herbert  Cash:0.0
