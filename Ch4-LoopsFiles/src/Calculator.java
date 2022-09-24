@@ -1,9 +1,8 @@
 import java.util.*;
 
 /*
-@Rand Hasan Student, Period 11
-10/4/2019
-Calculator.java Ch4 Loops and Files, CHS Project 1 - A Simple Desk Calculator
+@Rand Hasan
+Calculator.java
 This program implements a simple version of a Desk Calculator which uses postfix notation.
 The first part outputs the number and character that were received. The second outputs the
 the meanings of commands. The third is the implementation of the desk calculator.
