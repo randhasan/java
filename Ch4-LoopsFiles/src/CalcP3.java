@@ -5,7 +5,7 @@ import java.util.Scanner;
 10/4/2019
 CalcP3.java Ch4 Loops and Files, CHS Project 1 - A Simple Desk Calculator Part 3
 This program implements a simple version of a Desk Calculator which uses 
-postfix notation.  It is only the third part of the assignment.
+postfix notation.
 */
 
 public class CalcP3
