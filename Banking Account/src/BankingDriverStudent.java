@@ -7,9 +7,8 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 /**
- * @author Rand Hasan, Period 11
- * 3/30/2020
- * BankingDriverStudent.java Banking Account Project
+ * @author Rand Hasan
+ * BankingDriverStudent.java
  * This program models bank accounts and the data associated with accounts written in a file
 */
 
