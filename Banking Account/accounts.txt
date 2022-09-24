@@ -1,0 +1,71 @@
+SA
+12345
+Peter Pearson
+400.00
+3.2
+#
+CA
+85643
+Zach Dyer
+759.34
+.05
+#
+SCA
+98765
+Eric Christenson
+12675.47
+.1
+1.4
+1000.00
+#
+SA
+56432
+Laura Herrle
+3454.24
+3.2
+#
+CA
+66666
+Jarrett Gustovich
+6000.00
+.05
+#
+SCA
+55555
+Brandon Littell
+7000.00
+.1
+1.4
+500.00
+#
+SA
+33333
+Michael Spagnolo
+8465.24
+2.5
+#
+CA
+11111
+Austin Schlotterbeck
+6000.00
+.05
+#
+CA
+77777
+Matt Clive
+3465.22
+.15
+#
+CA
+88888
+Evan Klei
+1.00
+.5
+#
+SCA
+22222
+Tyler Schlotterbeck
+2222.22
+.1
+1.25
+250.00
