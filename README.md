@@ -1,2 +1,2 @@
 # java
-java programs
+a collection of java programs i've written.
