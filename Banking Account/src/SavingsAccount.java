@@ -1,7 +1,6 @@
 /**
- * @author Rand Hasan, Period 11
- * 3/30/2020
- * SavingsAccount.java Banking Account Project
+ * @author Rand Hasan
+ * SavingsAccount.java
  * This program models a savings account which has an interest rate
 */
 
