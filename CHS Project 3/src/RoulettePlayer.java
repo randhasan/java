@@ -1,9 +1,8 @@
 import java.util.ArrayList;
 
 /**
- * @author Rand Hasan, Period 11
- * 2/19/2019
- * RoulettePlayer.java CHS Assignment 3
+ * @author Rand Hasan
+ * RoulettePlayer.java
  * This program is a class for the game player which includes the player's name and money along with mutator and accessor methods for
  * manipulating and accessing the player's data.
 */
