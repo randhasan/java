@@ -1,7 +1,6 @@
 /**
- * @author Rand Hasan, Period 11
- * 4/25/2020
- * LongDistanceCall.java Long Distance Calls
+ * @author Rand Hasan
+ * LongDistanceCall.java
  * This program is a class that calculates the cost of the user's phone call
 */
 public class LongDistanceCall
