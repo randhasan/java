@@ -1,27 +1,8 @@
- // CHS CS 0401
- // Assignment 3 List Test Program
- // You should complete the RPList class such that this program will compile
- // and execute correctly, with output similar to that shown in file 
- // A3ListTest.txt.  See extensive comments about the various required methods
- // and functionality of the RPList class.
- //
- // Important Note:  This program will modify the contents of file players.txt.
- // The trace output of this program in file A3ListTest.txt shows two runs executed
- // in sequence -- be sure to run yours twice when testing it.  Also be sure to copy
- // the players.txt file to a temp file before running this program.  That way you 
- // can restore it to the original before submitting.  You should submit this program
- // with the original, provided version of players.txt.
-
- import java.util.*;
+import java.util.*;
  public class A3ListTest
  {
      public static void main(String [] args)
      {
-         // Class RPList must be an array-based data structure which can store
-         // RoulettePlayer objects.  You may not use any predefined Java collection
-         // classes within your RPList class -- you must store your data in an array
-         // or RoulettePlayer.  See more information on the required methods and
-         // functionality below.
          
          RPList R = new RPList("players.txt");  // Create an RPList using the data
                  // from file players.txt as input.  The underlying array in the
