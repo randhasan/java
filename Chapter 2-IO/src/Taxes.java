@@ -3,9 +3,8 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
- * @author Rand Hasan, Period 11
- * 9/8/2019
- * Taxes.java Ch2 Input, Problem 3: Taxes
+ * @author Rand Hasan
+ * Taxes.java
  * Program takes input of the user's annual salary to display a table of values
  * displaying the gross pay, taxes, and net pay for several different pay schedules.
  */
