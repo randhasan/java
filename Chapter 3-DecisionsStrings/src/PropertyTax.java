@@ -2,9 +2,8 @@ import java.util.Scanner;
 import javax.swing.JOptionPane;
 
 /**
- * @author Rand Hasan, Period 11
- * 9/18/2019
- * PropertyTax.java Ch3 Decision Statements, Option A: Problem 3: Property Tax
+ * @author Rand Hasan
+ * PropertyTax.java
  * Program asks what type of home the user lives in and the value of their property.
  * The program uses the input and applies a tax rate and recycling fee to output the property tax.
  */
