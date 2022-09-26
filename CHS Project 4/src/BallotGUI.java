@@ -10,9 +10,8 @@ import java.util.Scanner;
 import javax.swing.*;
 
 /**
- * @author Rand Hasan, Period 11
- * 5/26/2020
- * BallotGUI.java CHS Project 4
+ * @author Rand Hasan
+ * BallotGUI.java
  * This program is a GUI which simulates a ballot for users to make votes
 */
 
