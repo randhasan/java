@@ -1,9 +1,3 @@
-// CHS CS 0401
-// Assignment 2 Player Test Program
-// You should complete the RoulettePlayer class such that
-// this program will compile and execute correctly, with output similar to
-// that shown in file PlayerTest.txt.
-
 public class PlayerTest
 {
 	public static void main(String [] args)
