@@ -2,9 +2,8 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- * @author Rand Hasan, Period 11
- * 4/25/2020
- * LongDistanceRatePanel.java Long Distance Calls
+ * @author Rand Hasan
+ * LongDistanceRatePanel.java
  * This program is a class creates a panel with buttons for the user to choose which time they make their call
 */
 public class LongDistanceRatePanel extends JPanel
