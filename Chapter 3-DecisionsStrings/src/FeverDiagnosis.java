@@ -1,9 +1,8 @@
 import javax.swing.JOptionPane;
 
 /**
- * @author Rand Hasan, Period 11
- * 9/14/2019
- * FeverDiagnosis.java Ch3 Decisions and Strings, Problem: Extra Credit Fever Diagnosis
+ * @author Rand Hasan
+ * FeverDiagnosis.javas
  * Program takes input from the user asking questions about any symptoms
  * they have been having in order to return output of a diagnosis. 
  */
