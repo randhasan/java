@@ -1,7 +1,5 @@
 /*
-@Rand Hasan Student, Period 11
-8/28/2019
-House.java Ch2 Output, Problem 2: Happy Face
+@Rand Hasan
 Program that uses different symbols and escape
 sequences in order to display a unicorn.
 */
