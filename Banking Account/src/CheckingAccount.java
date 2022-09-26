@@ -1,7 +1,6 @@
 /**
- * @author Rand Hasan, Period 11
- * 3/30/2020
- * CheckingAccount.java Banking Account Project
+ * @author Rand Hasan
+ * CheckingAccount.java
  * This program models a checking account which allows checks to be written on it
 */
 
