@@ -4,9 +4,8 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 /**
- * @author Rand Hasan, Period 11
- * 4/25/2020
- * LongDistanceCallGUI.java Long Distance Calls
+ * @author Rand Hasan
+ * LongDistanceCallGUI.java
  * This program is a GUI in which the user can calculate the price of a phone call
 */
 public class LongDistanceCallGUI extends JFrame
