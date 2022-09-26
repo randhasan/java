@@ -2,9 +2,8 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
- * @author Rand Hasan, Period 11
- * 9/18/2019
- * ShaNaNa.java Ch3 Decision Statements, Problem 2: Sha Na Na
+ * @author Rand Hasan
+ * ShaNaNa.java
  * Program takes in three words of input from the user and asks the user to choose
  * an option (1-4).  Based on the option chosen, a variation of the three words
  * is outputted.
