@@ -6,9 +6,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * @author Rand Hasan, Period 11
- * 2/19/2019
- * RPList.java CHS Assignment 3
+ * @author Rand Hasan
+ * RPList.java
  * This program is a class that creates an RPList that will hold RoulettePlayer objects that will be used
  * in a game of Roulette
 */
