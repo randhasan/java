@@ -3,9 +3,8 @@ import java.io.FileNotFoundException;
 import java.util.*;
 
 /**
- * @author Rand Hasan, Period 11
- * 10/25/2019
- * Project2.java Ch6 Arrays, CHS Project 2 - Tumor Classification
+ * @author Rand Hasan
+ * Project2.java
  * This program reads data from a file in order to determine if a tumor is malignant or benign 
  * base its attributes. It also determines how accurately it can predict whether a tumor is 
  * malignant or benign based on what it learns from the training data.
