@@ -1,6 +1,5 @@
 /**
- * @author Rand Hasan, Period 11
- * 4/10/2020
+ * @author Rand Hasan
  * HighSchoolStudent.java Student Database Project
  * This program models a high school student with data that defines the student
 */
