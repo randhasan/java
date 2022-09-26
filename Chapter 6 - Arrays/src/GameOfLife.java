@@ -1,9 +1,8 @@
 import java.util.*;
 
 /**
- * @author Rand Hasan, Period 11
- * 11/5/2019
- * GameOfLife.java Ch7 Arrays, Game of Life Assignment
+ * @author Rand Hasan
+ * GameOfLife.java
  * This is a program of the Game of Life which models a simple world consisting of a 2D plane of cells. User
  * begins game by choosing coordinates for live cells for the 1st day. As the days go on, the creatures are born
  * or die according to the number of neighboring creatures from the previous day.
