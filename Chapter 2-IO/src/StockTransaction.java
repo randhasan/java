@@ -2,9 +2,8 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
- * @author Rand Hasan, Period 11
- * 9/6/2019
- * StockTransaction.java Ch2 Input, Problem 1: Stock Transaction
+ * @author Rand Hasan
+ * StockTransaction.java
  * Program that prints a summary of the purchase and sale of stock after receiving
  * input for the number of shares originally purchased, price paid for the stock,
  * number of shares sold and price the shares were sold for.
