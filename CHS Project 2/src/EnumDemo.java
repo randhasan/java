@@ -1,4 +1,3 @@
-// CHS CS 0401
 // Demonstration of Enum types in Java.  This should help you with Assignment 2.
 // For the (very simple) enum type definitions see files:
 // RColors.java, RRanges.java, RParities.java and RBets.java
