@@ -1,4 +1,3 @@
-// CS 0401
 // RouletteResult class.  You must use this class as is in Assignment 2
 
 public class RouletteResult
