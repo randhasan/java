@@ -1,12 +1,3 @@
-// CHS CS 0401
-// Assignment 2 Test Program
-// You should complete the RouletteWheel class such that
-// this program will compile and execute correctly, with output similar to
-// that shown in file RouletteTest.txt.  Note, however, that since the
-// spinWheel() method uses random numbers, your output will not match mine
-// exactly.  See some more comments below.
-// See also RouletteBet.java and RouletteResult.java
-
 public class RouletteTest
 {
 	public static void main(String [] args)
