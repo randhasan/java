@@ -2,9 +2,8 @@ import java.util.ArrayList;
 import javax.swing.JButton;
 
 /**
- * @author Rand Hasan, Period 11
- * 5/24/2020
- * Ballot.java CHS Project 4
+ * @author Rand Hasan
+ * Ballot.java
  * This program is used to construct and extract data from a Ballot object
 */
 
