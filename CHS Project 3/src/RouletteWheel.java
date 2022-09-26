@@ -1,9 +1,8 @@
 import java.util.Random;
 
 /**
- * @author Rand Hasan, Period 11
- * 1/28/2019
- * RouletteWheel.java CHS CS 401 Assignment 2
+ * @author Rand Hasan
+ * RouletteWheel.java
  * This program represents the Roulette wheel and sets up the wheel data and finds the payoff for a  user's bet.
 */
 
