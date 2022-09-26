@@ -1,6 +1,5 @@
 /**
- * @author Rand Hasan, Period 11
- * 4/10/2020
+ * @author Rand Hasan
  * Student.java Student Database Project
  * This program models a student with data that defines the student
 */
