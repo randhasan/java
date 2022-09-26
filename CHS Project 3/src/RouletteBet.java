@@ -1,6 +1,3 @@
-// CHS CS 0401
-// RouletteBet class.  You must use this class as is for Assignment 2
-
 // Note that the betValue field here is a String.  This allows the RouletteBet
 // class to work with any of the RBet possibilities.  However, the result of the
 // wheel spin will produce enum values for the various bet types, so you will have
