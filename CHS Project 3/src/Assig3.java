@@ -7,9 +7,8 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 /**
- * @author Rand Hasan, Period 11
- * 2/19/2019
- * Assig3.java CHS Assignment 3
+ * @author Rand Hasan
+ * Assig3.java
  * This program is a driver class that operates the game of Roulette with the help of methods
  * and other classes
 */
