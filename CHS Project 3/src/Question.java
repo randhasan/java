@@ -1,7 +1,3 @@
-// CHS CS 0401
-// Question class for Assignment 3
-// You should use this class as provided without change
-
 public class Question
 {
 	private String Q;
