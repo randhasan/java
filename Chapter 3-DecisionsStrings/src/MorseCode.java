@@ -1,9 +1,8 @@
 import java.util.Scanner;
 
 /**
- * @author Rand Hasan, Period 11
- * 9/17/2019
- * MorseCode.java Ch3 Decision Statements, Problem 1: Morse Code
+ * @author Rand Hasan
+ * MorseCode.java
  * Program asks user for input and converts it to morse code.
  */
 
