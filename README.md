@@ -1,2 +1,2 @@
 # java
-a collection of java programs i've written.
+a collection of my favorite java programs i've written.
