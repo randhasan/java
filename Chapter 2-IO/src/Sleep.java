@@ -2,9 +2,8 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
- * @author Rand Hasan, Period 11
- * 9/8/2019
- * Sleep.java Ch2 Input, Problem 2: Sleep
+ * @author Rand Hasan
+ * Sleep.java
  * Program calculates number of hours of your life that you've spent sleeping.
  */
 
