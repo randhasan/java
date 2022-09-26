@@ -1,7 +1,6 @@
 /**
- * @author Rand Hasan, Period 11
- * 1/28/2019
- * RoulettePlayer.java CHS CS 401 Assignment 2
+ * @author Rand Hasan
+ * RoulettePlayer.java
  * This program is a class for the game player which includes the player's name and money along with mutator and accessor methods for
  * manipulating and accessing the player's data.
 */
