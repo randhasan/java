@@ -8,9 +8,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 /**
- * @author Rand Hasan, Period 11
- * 1/28/2019
- * Assig2.java CHS CS 401 Assignment 2
+ * @author Rand Hasan
+ * Assig2.java
  * This is the main program for the game of Roulette itself.  It allows the user to play the game of
  * Roulette in a user-friendly way.
 */
