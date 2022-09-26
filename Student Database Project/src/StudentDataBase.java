@@ -6,8 +6,7 @@ import java.util.Stack;
 import java.util.StringTokenizer;
 
 /**
- * @author Rand Hasan, Period 11
- * 4/10/2020
+ * @author Rand Hasan
  * StudentDataBase.java Student Database Project
  * This program models a database that holds information about different students
 */
