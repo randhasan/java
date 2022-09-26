@@ -1,8 +1,7 @@
 /**
- * @author Rand Hasan, Period 11
- * 3/30/2020
- * SpecialCheckingAccount.java Banking Account Project
- * This program models a special checking account which is a subclass of a checking account
+ * @author Rand Hasan
+ * SpecialCheckingAccount.java
+ * This program models a special checking account which is a subclass of a checking account.
 */
 
 public class SpecialCheckingAccount extends CheckingAccount
