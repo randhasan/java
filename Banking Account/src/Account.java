@@ -1,7 +1,6 @@
 /**
- * @author Rand Hasan, Period 11
- * 3/30/2020
- * Account.java Banking Account Project
+ * @author Rand Hasan
+ * Account.java
  * This abstract class models a bank account with different data and operations
 */
 
