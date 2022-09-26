@@ -1,8 +1,7 @@
 import java.io.FileNotFoundException;
 
 /**
- * @author Rand Hasan, Period 11
- * 4/10/2020
+ * @author Rand Hasan
  * StudentDBDriver.java Student Database Project
  * This program displays the data in the student database
 */
