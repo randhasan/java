@@ -1,7 +1,6 @@
 /*
-@Rand Hasan Student, Period 11
-8/28/2019
-House.java Ch2 Output, Problem 1: House
+@Rand Hasan
+House.java
 Program that uses front and back
 slashes to display a house.
 */
