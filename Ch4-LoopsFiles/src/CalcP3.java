@@ -1,9 +1,7 @@
 import java.util.Scanner;
 
 /*
-@Rand Hasan Student, Period 11
-10/4/2019
-CalcP3.java Ch4 Loops and Files, CHS Project 1 - A Simple Desk Calculator Part 3
+@Rand Hasan
 This program implements a simple version of a Desk Calculator which uses 
 postfix notation.
 */
